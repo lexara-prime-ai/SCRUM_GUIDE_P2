@@ -27,8 +27,12 @@
  - A burndown chart shows the amount of work that has been completed in
    an epic or sprint, and the total work remaining.
    
- - Burndown charts are used to predict your team's likelihood of
-   completing their work in the time available.
+ - **Burndown charts are used to predict your team's likelihood of
+   completing their work in the time available.**
+   
+ - **The amount of work that needs to be completed in relation to the
+   amount of time available.**
+
    
 ## 3. In case you receive a story in the last day of the sprint to test and you find there are defects, what will you do?
 
@@ -50,8 +54,16 @@
    sets but are all working towards a common goal**.
 
 **  
-What does it mean to have a Cross-Functional Development team?**
+Q. What does it mean to have a Cross-Functional Development team?**
+
+ - The Development Team should work closely with other members of the
+   Scrum team???
+
+## 5. In case the scrum owner master is not available, would you still conduct the daily stand-up meeting?
+
+ - Yes, and make sure to follow up on any impediments raised
 
 
+## 6. **What is the importance of daily Standup?**
 
-The Development Team should work closely with other members of the Scrum team???
+ - Inspect progress toward the Sprint Goal
