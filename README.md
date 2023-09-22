@@ -48,3 +48,10 @@
    
  - In a cross-functional development team **members have different skill
    sets but are all working towards a common goal**.
+
+**  
+What does it mean to have a Cross-Functional Development team?**
+
+
+
+The Development Team should work closely with other members of the Scrum team???
